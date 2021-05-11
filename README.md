@@ -1,1 +1,3 @@
-### Hi stranger, how was your day? What brings you here?
+### How was your day, stranger? 
+### What brings you here? 
+### What went wrong, my dear?
