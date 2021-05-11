@@ -1,2 +1,2 @@
-### Hi there, I'm using Github 👋
-
+### Hi stranger, how was your day?
+### What brings you here?
