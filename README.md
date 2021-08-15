@@ -1,4 +1,4 @@
-# Hi there, I'm Richard
+## Hi there, I'm Richard
 
 
 ### I am student, developer and Tech Enthusiast
