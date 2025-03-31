@@ -1,9 +1,4 @@
-### Hi there, I'm Richard
-
-## I am a student, developer and tech enthusiast
-- I'm currently studying in the University of Hong Kong.
-- I'm currenly learning and developing fullstack applications with TS
-- I'm a fast typer
-- Goal this year: contribute more to open source project
-- You may as well check out [my website](https://manyan-chan.github.io/)
-
+Results-driven software engineer with 3+ years of experience in optimizing business processes and developing scalable software
+solutions in the financial sector. Proven track record of delivering high-quality code that enhances operational performance.
+Strong understanding of financial markets and diverse asset classes, with a focus on driving innovation and collaboration in
+fast-paced environments.
